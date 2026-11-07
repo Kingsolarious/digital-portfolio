@@ -4,7 +4,7 @@
 UX/UI Developer and Technical Writer — Blac Flag, LLC
 Moorpark, CA · Remote · (661) 607-1489 · nickw1992@icloud.com · linkedin.com/in/nick-walline-04274b92
 
-> UX/UI developer and technical writer at Blac Flag. Writes product and process documentation and designs the interfaces it describes, so guides match what users actually see on screen. Documented the Community Benefit Programs portal (cbprograms.org) and contributed its UX/UI design and software development. Writing samples for the portal are withheld under the client's NDA; equivalent documentation work from other projects is available on request. Software developer since 2025 — shipping web applications, developer tools, and the documentation that goes with them — on top of 10+ years of hands-on technical experience in hardware, live production, and repair.
+> UX/UI developer and technical writer at Blac Flag. Writes product and process documentation and designs the interfaces it describes, so guides match what users actually see on screen. Documented the Community Benefit Programs portal (cbprograms.org) and contributed its UX/UI design and software development. Writing samples for the portal are withheld under the client's NDA; equivalent documentation work from other projects is available on request. Web work predates the software transition — PHP site administration and server-side management in work roles, plus self-run WordPress sites (personal blog, music site) — before Blac Flag brought him on as a junior developer in 2025 to make the jump full-time. 10+ years of hands-on technical experience in hardware, live production, and repair behind it.
 
 ---
 
@@ -32,7 +32,7 @@ Moorpark, CA · Remote · (661) 607-1489 · nickw1992@icloud.com · linkedin.com
 - Author **field test reports** for electromechanical field devices (GEQ Gizmo onsite motor test day): five formal no-load vibration capture reports — one per unit under test (Ward Leonard ×2, GEQ Drillmax604, GE 5GEB22D4, Hitachi IEC 60349-2) — with pass/fail verification tables covering recording integrity, sample-rate lock, sensor bias, idle floor, and signal-to-floor ratio; a 13-page plain-English FFT analysis report for non-engineer stakeholders; and a timestamped factory test log with per-session capture notes.
 - Maintain **installation and configuration documentation** for developer tools (READMEs, `INSTALL.md`, platform-specific setup guides, troubleshooting docs, workaround analyses for third-party platform restrictions).
 - Maintain **open-source project documentation** — user guide, contributing guidelines, fork/trademark attribution, and roadmaps localized in six languages for a GPL-licensed project.
-- Develop React-based interfaces and AI-powered search tools for hardware-focused applications; began software development in 2025 and have shipped web applications, developer tools, and documentation continuously since.
+- Develop React-based interfaces and AI-powered search tools for hardware-focused applications; joined Blac Flag as a junior developer in 2025, transitioning from prior web administration (PHP, server-side management, WordPress) into full-time software development.
 
 ### Independent Software Developer & Open-Source Contributor
 *Remote · 2025 – Present*
@@ -116,7 +116,7 @@ Moorpark, CA · Remote · (661) 607-1489 · nickw1992@icloud.com · linkedin.com
 ## Skills
 
 **Documentation:** knowledge-base articles, SOPs, runbooks, user guides, as-built & process documentation, documentation inventory, content review/retirement, technical writing from engineering source material
-**UX/UI & Front-end:** interface design, React, TypeScript, HTML, CSS, JavaScript, Tailwind, Vite, server-side configuration, Docker, AI-powered search tools
+**UX/UI & Front-end:** interface design, React, TypeScript, HTML, CSS, JavaScript, PHP, WordPress, Tailwind, Vite, server-side configuration, Docker, AI-powered search tools
 **Tools:** Confluence, Jira, SharePoint, Git/GitHub, Markdown/docs-as-code, VS Code
 **Hardware (context for technical accuracy):** PCB assembly & rework, CAD modeling, 3D printing, embedded systems, oscilloscopes/DMMs, test equipment
 
